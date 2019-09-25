@@ -1,0 +1,101 @@
+Sujet;Style musical 1;Genre;Tranche d'age;Région;Nombre concerts par an;Retour enquête;;;;;
+1;Dance & EDM;Femme;20-24 ans;Corse;Plus de 10;Non;;;;;
+2;Blues;Femme;Moins de 15 ans;Bourgogne-Franche-Comté;3 à 5;Non;;;;;
+3;Musique africaine;Femme;70-74 ans;Grand Est;3 à 5;Non;;;;;
+4;Variété française;Homme;15-19 ans;Auvergne-Rhône-Alpes;Aucun;Non;;;;;
+5;Musique brésilienne;Homme;30-34 ans;Bretagne;5 à 10;Non;;;;;
+6;Musique brésilienne;Femme;75 ans ou plus;Île-de-France;3 à 5;Non;;;;;
+7;Kids;Femme;30-34 ans;Corse;1 à 2;Non;;;;;
+8;Country;Femme;50-54 ans;Provence-Alpes-Côte d'Azur;3 à 5;Non;;;;;
+9;Rock;Homme;55-59 ans;Provence-Alpes-Côte d'Azur;3 à 5;Non;;;;;
+10;Indé - Alternatif;Homme;40-44 ans;Normandie;3 à 5;Non;;;;;
+11;Classique;Homme;45-49 ans;Provence-Alpes-Côte d'Azur;5 à 10;Non;;;;;
+12;Classique;Homme;75 ans ou plus;Occitanie;1 à 2;Oui;Classique;Homme;75 ans ou plus;Occitanie;1 à 2
+13;Jazz;Homme;50-54 ans;Ultramarine;Aucun;Non;;;;;
+14;R’n’B;Homme;65-69 ans;Île-de-France;1 à 2;Non;;;;;
+15;TV, jeux vidéo & films;Homme;70-74 ans;Bourgogne-Franche-Comté;1 à 2;Non;;;;;
+16;Classique;Homme;25-29 ans;Centre-Val de Loire;1 à 2;Non;;;;;
+17;Folk & Acoustique;Homme;15-19 ans;Corse;3 à 5;Non;;;;;
+18;Folk & Acoustique;Femme;50-54 ans;Ultramarine;Aucun;Non;;;;;
+19;R’n’B;Homme;50-54 ans;Occitanie;5 à 10;Oui;R’n’B;Homme;50-54 ans;Occitanie;5 à 10
+20;Latino;Femme;65-69 ans;Corse;3 à 5;Non;;;;;
+21;Jazz;Femme;50-54 ans;Ultramarine;1 à 2;Non;;;;;
+22;Kids;Homme;Moins de 15 ans;Bourgogne-Franche-Comté;1 à 2;Non;;;;;
+23;R’n’B;Homme;40-44 ans;Auvergne-Rhône-Alpes;5 à 10;Non;;;;;
+24;Musique brésilienne;Femme;30-34 ans;Hauts-de-France;Aucun;Non;;;;;
+25;Metal;Femme;65-69 ans;Hauts-de-France;1 à 2;Non;;;;;
+26;Jazz;Femme;55-59 ans;Pays de la Loire;Aucun;Non;;;;;
+27;Indé - Alternatif;Femme;75 ans ou plus;Hauts-de-France;Aucun;Non;;;;;
+28;Rock;Femme;55-59 ans;Nouvelle-Aquitaine;Plus de 10;Oui;Rock;Femme;55-59 ans;Nouvelle-Aquitaine;Plus de 10
+29;Musique africaine;Femme;40-44 ans;Nouvelle-Aquitaine;5 à 10;Oui;Musique africaine;Femme;40-44 ans;Nouvelle-Aquitaine;5 à 10
+30;Pop;Homme;75 ans ou plus;Nouvelle-Aquitaine;3 à 5;Oui;Pop;Homme;75 ans ou plus;Nouvelle-Aquitaine;3 à 5
+31;Musique africaine;Homme;65-69 ans;Grand Est;5 à 10;Non;;;;;
+32;Musique brésilienne;Homme;15-19 ans;Normandie;1 à 2;Non;;;;;
+33;Kids;Homme;35-39 ans;Hauts-de-France;3 à 5;Non;;;;;
+34;Latino;Homme;60-64 ans;Bretagne;3 à 5;Non;;;;;
+35;Musique africaine;Homme;50-54 ans;Occitanie;Plus de 10;Oui;Musique africaine;Homme;50-54 ans;Occitanie;Plus de 10
+36;Folk & Acoustique;Homme;50-54 ans;Provence-Alpes-Côte d'Azur;5 à 10;Non;;;;;
+37;Jazz;Femme;Moins de 15 ans;Corse;Plus de 10;Non;;;;;
+38;Dance & EDM;Femme;35-39 ans;Corse;Plus de 10;Non;;;;;
+39;Pop;Homme;70-74 ans;Normandie;5 à 10;Non;;;;;
+40;Soul & Funk;Homme;55-59 ans;Pays de la Loire;3 à 5;Non;;;;;
+41;R’n’B;Femme;30-34 ans;Corse;Aucun;Non;;;;;
+42;Blues;Homme;60-64 ans;Grand Est;3 à 5;Non;;;;;
+43;Musique africaine;Femme;40-44 ans;Île-de-France;3 à 5;Non;;;;;
+44;TV, jeux vidéo & films;Homme;15-19 ans;Pays de la Loire;3 à 5;Non;;;;;
+45;Variété française;Femme;30-34 ans;Bretagne;5 à 10;Non;;;;;
+46;Soul & Funk;Femme;65-69 ans;Nouvelle-Aquitaine;Plus de 10;Oui;Soul & Funk;Femme;65-69 ans;Nouvelle-Aquitaine;Plus de 10
+47;R’n’B;Femme;60-64 ans;Occitanie;Plus de 10;Oui;R’n’B;Femme;60-64 ans;Occitanie;Plus de 10
+48;Latino;Homme;30-34 ans;Hauts-de-France;Aucun;Non;;;;;
+49;Classique;Homme;45-49 ans;Normandie;1 à 2;Non;;;;;
+50;Electro;Homme;65-69 ans;Centre-Val de Loire;1 à 2;Non;;;;;
+51;Variété française;Homme;35-39 ans;Grand Est;Plus de 10;Non;;;;;
+52;Jazz;Femme;Moins de 15 ans;Auvergne-Rhône-Alpes;5 à 10;Non;;;;;
+53;Folk & Acoustique;Femme;25-29 ans;Bretagne;Plus de 10;Non;;;;;
+54;Rap;Homme;20-24 ans;Provence-Alpes-Côte d'Azur;Plus de 10;Non;;;;;
+55;Electro;Homme;70-74 ans;Pays de la Loire;Aucun;Non;;;;;
+56;Musique brésilienne;Femme;25-29 ans;Ultramarine;3 à 5;Non;;;;;
+57;Indé - Alternatif;Femme;30-34 ans;Corse;Aucun;Non;;;;;
+58;Indé - Alternatif;Homme;25-29 ans;Auvergne-Rhône-Alpes;Plus de 10;Non;;;;;
+59;Rap;Femme;25-29 ans;Normandie;5 à 10;Non;;;;;
+60;Pop;Homme;60-64 ans;Bourgogne-Franche-Comté;5 à 10;Non;;;;;
+61;Kids;Femme;65-69 ans;Nouvelle-Aquitaine;3 à 5;Oui;Kids;Femme;65-69 ans;Nouvelle-Aquitaine;3 à 5
+62;Electro;Homme;25-29 ans;Bourgogne-Franche-Comté;3 à 5;Non;;;;;
+63;Metal;Femme;20-24 ans;Île-de-France;Aucun;Non;;;;;
+64;Soul & Funk;Femme;55-59 ans;Île-de-France;Aucun;Non;;;;;
+65;Latino;Femme;45-49 ans;Corse;Aucun;Non;;;;;
+66;Musique africaine;Homme;45-49 ans;Nouvelle-Aquitaine;Plus de 10;Oui;Musique africaine;Homme;45-49 ans;Nouvelle-Aquitaine;Plus de 10
+67;Variété française;Femme;25-29 ans;Provence-Alpes-Côte d'Azur;1 à 2;Non;;;;;
+68;Metal;Homme;70-74 ans;Centre-Val de Loire;Aucun;Non;;;;;
+69;Soul & Funk;Femme;65-69 ans;Occitanie;5 à 10;Oui;Soul & Funk;Femme;65-69 ans;Occitanie;5 à 10
+70;Folk & Acoustique;Femme;15-19 ans;Bourgogne-Franche-Comté;5 à 10;Non;;;;;
+71;Latino;Femme;50-54 ans;Provence-Alpes-Côte d'Azur;3 à 5;Non;;;;;
+72;Pop;Femme;40-44 ans;Auvergne-Rhône-Alpes;1 à 2;Non;;;;;
+73;Pop;Femme;65-69 ans;Île-de-France;1 à 2;Non;;;;;
+74;Kids;Homme;75 ans ou plus;Bretagne;Aucun;Non;;;;;
+75;Electro;Femme;20-24 ans;Grand Est;5 à 10;Non;;;;;
+76;Pop;Femme;60-64 ans;Île-de-France;5 à 10;Non;;;;;
+77;Classique;Homme;35-39 ans;Hauts-de-France;5 à 10;Non;;;;;
+78;Folk & Acoustique;Homme;65-69 ans;Pays de la Loire;Aucun;Non;;;;;
+79;Folk & Acoustique;Homme;25-29 ans;Centre-Val de Loire;3 à 5;Non;;;;;
+80;Variété française;Homme;60-64 ans;Pays de la Loire;5 à 10;Non;;;;;
+81;Indé - Alternatif;Femme;55-59 ans;Île-de-France;3 à 5;Non;;;;;
+82;Musique africaine;Homme;40-44 ans;Pays de la Loire;Plus de 10;Oui;Musique africaine;Homme;40-44 ans;Pays de la Loire;Plus de 10
+83;R’n’B;Femme;45-49 ans;Grand Est;1 à 2;Non;;;;;
+84;Soul & Funk;Femme;45-49 ans;Provence-Alpes-Côte d'Azur;1 à 2;Non;;;;;
+85;Country;Homme;45-49 ans;Occitanie;Plus de 10;Oui;Country;Homme;45-49 ans;Occitanie;Plus de 10
+86;Folk & Acoustique;Homme;25-29 ans;Normandie;3 à 5;Non;;;;;
+87;Classique;Femme;45-49 ans;Bourgogne-Franche-Comté;Aucun;Non;;;;;
+88;Soul & Funk;Homme;70-74 ans;Occitanie;Aucun;Non;;;;;
+89;Country;Homme;Moins de 15 ans;Normandie;5 à 10;Non;;;;;
+90;Rap;Femme;20-24 ans;Occitanie;1 à 2;Oui;Rap;Femme;20-24 ans;Occitanie;1 à 2
+91;Metal;Homme;35-39 ans;Ultramarine;1 à 2;Non;;;;;
+92;Variété française;Femme;70-74 ans;Normandie;3 à 5;Non;;;;;
+93;TV, jeux vidéo & films;Femme;30-34 ans;Ultramarine;Aucun;Non;;;;;
+94;Classique;Homme;30-34 ans;Centre-Val de Loire;5 à 10;Non;;;;;
+95;Metal;Homme;50-54 ans;Grand Est;Aucun;Non;;;;;
+96;Country;Homme;25-29 ans;Grand Est;Aucun;Non;;;;;
+97;Pop;Femme;70-74 ans;Normandie;Aucun;Non;;;;;
+98;Blues;Homme;25-29 ans;Bretagne;3 à 5;Non;;;;;
+99;Soul & Funk;Homme;35-39 ans;Auvergne-Rhône-Alpes;3 à 5;Non;;;;;
+100;Indé - Alternatif;Femme;70-74 ans;Hauts-de-France;1 à 2;Non;;;;;
