@@ -8,7 +8,9 @@ Rename your data file to "data.csv" and put it into the installation directory.
 The last colomn of your data table must be the target.
 
 Example:
+
 data.csv
+
 | Outlook  | Temp | Play Golf |
 | ------------- | ------------- | ------------- |
 | Rainy  | Hot  | No |
